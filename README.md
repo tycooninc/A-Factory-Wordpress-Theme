@@ -16,6 +16,5 @@ The theme takes advantage of codestar framework to build its backend input optio
 <img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/630a6f28-3987-41d0-b543-ae8a300948c8" />
 
 <img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/d0bd33a0-6993-4e5c-983b-9364233504b1" />
-
-
-
+<img width="1623" height="918" alt="screenshot4" src="https://github.com/user-attachments/assets/4b5223c6-3d41-4bb2-8ace-17daeeb8b5b4" />
+<img width="1603" height="919" alt="screenshot5" src="https://github.com/user-attachments/assets/e552679e-3845-4074-be6d-676e2f94e42b" />
